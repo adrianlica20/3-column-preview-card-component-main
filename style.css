@@ -14,10 +14,6 @@ body {
   background-color: hsl(0, 0%, 95%);
 }
 
-h1 {
-  display: none;
-}
-
 .cars {
   max-width: 837px;
   max-height: 700px;
